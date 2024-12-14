@@ -1,0 +1,11 @@
+{
+  "name": "duck-search",
+  "version": "1.0.0",
+  "description": "Duck Search is a search engine with email and video functionalities.",
+  "main": "app.js",
+  "scripts": {
+    "start": "app.js"
+  },
+  "author": "Wooden Boy",
+  "license": "MIT"
+}
